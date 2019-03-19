@@ -2,6 +2,8 @@
 
 Presentatie 2019
 
+![](afbeeldingen/39-different-perspectives.png)
+
 ---
 ## kleine Titel
 
